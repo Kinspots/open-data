@@ -1,0 +1,632 @@
+[
+    {
+      "id": 1,
+      "name": "Bandalungwa",
+      "coordinates": {
+        "lat": -4.3417,
+        "lng": 15.2812
+      },
+      "district": "Funa",
+      "neighborhoods": [
+        "Makelele",
+        "Bisengo",
+        "Adoula",
+        "kasa-vubu",
+        "Lubudi",
+        "Moelart",
+        "Lumumba"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Barumbu",
+      "coordinates": {
+        "lat": -4.3226,
+        "lng": 15.3291
+      },
+      "district": "Lukunga",
+      "neighborhoods": [
+        "Bitshaku-tshaku",
+        "Camp Pilote Mbaki",
+        "Camp Ndolo",
+        "Funa 1",
+        "Funa 2",
+        "Kapinga Bapo",
+        "Kasai",
+        "Libulu",
+        "Mozindo",
+        "Ndolo",
+        "Tshimanga"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bumbu",
+      "coordinates": {
+        "lat": -4.3728,
+        "lng": 15.2941
+      },
+      "discrict": "Funa",
+      "neighborhoods": [
+        "Dipiya",
+        "Mongala",
+        "Ubangi",
+        "Lokoro",
+        "Kasai",
+        "Kwango",
+        "Lukenie",
+        "Mai-Ndombé",
+        "Matadi",
+        "Lieutenant Mbaki",
+        "Mbandaka",
+        "Mfimi",
+        "Ntomba"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gombe",
+      "coordinates": {
+        "lat": -4.3048,
+        "lng": 15.3054
+      },
+      "district": "Lukunga",
+      "neighborhoods": [
+        "Batetela",
+        "Haut Commandement",
+        "Croix Rouge",
+        "Lemera",
+        "Golf",
+        "Fleuve",
+        "Gare",
+        "Commerce",
+        "Révolution",
+        "Cliniques"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kalamu",
+      "coordinates": {
+        "lat": -4.3427,
+        "lng": 15.3194
+      },
+      "district": "Funa",
+      "neighborhoods": [
+        "Yolo-Nord 1",
+        "Yolo-Nord 2",
+        "Yolo-Nord 3",
+        "Yolo-Sud 1",
+        "Yolo-Sud 2",
+        "Yolo-Sud 3",
+        "Yolo-Sud 4",
+        "Immo-Congo (Ex. 20 mai)",
+        "Matonge 1",
+        "Matonge 2",
+        "Matonge 3",
+        "Quartier Kauka 1",
+        "Quartier Kauka 2",
+        "Quartier Kauka 3",
+        "Kimbangu 1",
+        "Kimbangu 2",
+        "Kimbangu 3",
+        "Quartier Camp Pinzi"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Kasa-Vubu",
+      "coordinates": {
+        "lat": -4.3425,
+        "lng": 15.3039
+      },
+      "district": "Lukunga",
+      "neighborhoods": ["ONL", "Katanga", "Assossa", "Lodja", "Salongo"]
+    },
+    {
+      "id": 7,
+      "name": "Kimbanseke",
+      "coordinates": {
+        "lat": -4.4313,
+        "lng": 15.3811
+      },
+      "district": "Tshangu",
+      "neighborhoods": [
+        "17-Mai",
+        "Bahumbu",
+        "Bamboma",
+        "Biyela",
+        "Boma",
+        "Disasi",
+        "Esanga",
+        "Kamba Mulumba",
+        "Kasa-Vubu",
+        "Kikimi",
+        "Kingasani",
+        "Kisantu IR ben",
+        "Kutu",
+        "Luebo",
+        "Malonda",
+        "Mangana",
+        "Maviokele",
+        "Mbuala",
+        "Mfumu Nkento",
+        "Mikondo",
+        "Mokali",
+        "Mulie",
+        "Ngamazita",
+        "Ngampani",
+        "Ngandu",
+        "Nsanga",
+        "Nsumabwa",
+        "Révolution",
+        "Sakombi",
+        "Salongo"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Kinshasa",
+      "coordinates": {
+        "lat": -4.3033,
+        "lng": 15.3105
+      },
+      "district": "Lukunga",
+      "neighborhoods": [
+        "Aketi",
+        "Boyoma",
+        "Djalo",
+        "Madimba",
+        "Mongala",
+        "Ngbaka",
+        "Pende"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kintambo",
+      "coordinates": {
+        "lat": -4.3381,
+        "lng": 15.2664
+      },
+      "district": "Lukunga",
+      "neighborhoods": [
+        "Itimbiri",
+        "Jamaique",
+        "Kilimani",
+        "Lisala 1",
+        "Lisala 2",
+        "Lubudi Luka",
+        "Lubudi Ngandu",
+        "Salongo",
+        "Tshinkela",
+        "Wenze"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Kisenso",
+      "coordinates": {
+        "lat": -4.4177,
+        "lng": 15.3413
+      },
+      "district": "Mont-Amba",
+      "neighborhoods": [
+        "17 mai",
+        "Amba",
+        "Bikanga",
+        "Dingi-Dingi",
+        "Kabila",
+        "Kisenso-Gare",
+        "Kitomesa",
+        "Kumbu",
+        "Libération",
+        "Mbuku",
+        "Mission",
+        "Mujinga",
+        "Ngomba",
+        "Nsola",
+        "Quartier de la Paix",
+        "Regideso",
+        "Révolution"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Lemba",
+      "coordinates": {
+        "lat": -4.3935,
+        "lng": 15.333
+      },
+      "district": "Mont-Amba",
+      "neighborhoods": [
+        "Kimpwanza",
+        "Madrandele",
+        "Ecole",
+        "Masano",
+        "Foire",
+        "Salongo",
+        "Livulu",
+        "Mbanza-Lemba",
+        "Kemi",
+        "Molo",
+        "Gombele",
+        "Commercial",
+        "Tadi",
+        "Djaga",
+        "Malolo"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Limete",
+      "coordinates": {
+        "lat": -4.3547,
+        "lng": 15.3476
+      },
+      "district": "Mont-Amba",
+      "neighborhoods": [
+        "Mfumu mvula",
+        "Kingabwa",
+        "Mombele",
+        "Mososo",
+        "Quartier industriel",
+        "Salongo",
+        "Quartier résidentiel",
+        "Masiala",
+        "Mateba",
+        "Mayulu",
+        "Agricole",
+        "Ndanu",
+        "Mbamu",
+        "Nzad"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Lingwala",
+      "coordinates": {
+        "lat": -4.3174,
+        "lng": 15.2993
+      },
+      "district": "Lukunga",
+      "neighborhoods": [
+        "30 Juin",
+        "Camp Lufungula",
+        "CNECI",
+        "La Voix Du Peuple",
+        "Lokole",
+        "Ngunda Lokombe",
+        "Pakadjuma",
+        "Singa Mopepe",
+        "Wenze Lufungula"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Makala",
+      "coordinates": {
+        "lat": -4.3745,
+        "lng": 15.3087
+      },
+      "district": "Funa",
+      "neighborhoods": [
+        "Bagata",
+        "Bahumbu",
+        "Bolima",
+        "Kabila",
+        "Kisantu",
+        "Kwango",
+        "Lemba village",
+        "Mabulu I",
+        "Mabulu II",
+        "Malala",
+        "Mawanga",
+        "Mmfidi",
+        "Mikasi",
+        "Salongo",
+        "Selo",
+        "Tampa",
+        "Uele",
+        "Wamba"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Maluku",
+      "coordinates": {
+        "lat": -4.3561,
+        "lng": 15.3284
+      },
+      "district": "Tshangu",
+      "neighborhoods": [
+        "BU",
+        "Dumi",
+        "Camp Monako",
+        "Kikimi",
+        "Kimpoko",
+        "Kingakati",
+        "Kingunu",
+        "Kinzono",
+        "Mayi-Ndombe",
+        "Maluku",
+        "Mangengenge",
+        "Mbakana",
+        "Menkao",
+        "Mongata",
+        "Mwe",
+        "Ngana",
+        "Nguma",
+        "Yosso",
+        "Yuo"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Masina",
+      "coordinates": {
+        "lat": -4.3864,
+        "lng": 15.3968
+      },
+      "district": "Tshangu",
+      "neighborhoods": [
+        "Abattoir",
+        "Boba",
+        "Congo",
+        "Efoloko",
+        "Imbali",
+        "Kasai",
+        "Kimbangu",
+        "Mafuta Kizola",
+        "Mapela",
+        "Lokari",
+        "Lubamba",
+        "Mandiangu",
+        "Kivu",
+        "Matadi",
+        "Mfumu Suka",
+        "Nzuzi wa Mbombo",
+        "Pelende",
+        "Sans Fil",
+        "Tshango",
+        "Tshuenge",
+        "Télévision"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Matete",
+      "coordinates": {
+        "lat": -4.3808,
+        "lng": 15.343
+      },
+      "district": "Mont-Amba",
+      "neighborhoods": [
+        "Mandina",
+        "Maïndombe",
+        "Mboloko",
+        "Kwenge I",
+        "Kwenge II",
+        "Ngilima I",
+        "Ngilima II",
+        "Lokoro",
+        "Anunga",
+        "Kunda I",
+        "Kunda II",
+        "Viaza",
+        "Banunu I",
+        "Banunu II",
+        "Batandu I",
+        "Batandu II",
+        "Debonhomme",
+        "Pululu I",
+        "Pululu II",
+        "Baboma",
+        "Kinzazi",
+        "Tomba",
+        "Mongo",
+        "Vitamine I",
+        "Vitamine II",
+        "Batende",
+        "Kinsaku",
+        "Mutoto",
+        "Mpudi",
+        "Bahumbu I",
+        "Bahumbu II",
+        "Malandi I",
+        "Malandi 2",
+        "Lokele I",
+        "Lokele II",
+        "Bateke",
+        "Singa",
+        "kinsimbu",
+        "Ngufu",
+        "Kinda I",
+        "Kinda II"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Mont Ngafula",
+      "coordinates": {
+        "lat": -4.4449,
+        "lng": 15.2935
+      },
+      "district": "Lukunga",
+      "neighborhoods": [
+        "CPA Mushie",
+        "Kimbondo",
+        "Kimbuta",
+        "Kimuenza",
+        "Kimbuala",
+        "Kindele",
+        "Lutendele",
+        "Mama Mobutu",
+        "Mama Yemo",
+        "Masanga-Mbila",
+        "Musangu-Télécom",
+        "Mazamba",
+        "Matadi-Kibala",
+        "Matadi-Mayo",
+        "Mitendi",
+        "Mbuki",
+        "Ndjili",
+        "Kilambu",
+        "Ngansele",
+        "Plateau 1",
+        "Plateau 2",
+        "Vunda-Manenga"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Ndjili",
+      "coordinates": {
+        "lat": -4.4064,
+        "lng": 15.3746
+      },
+      "district": "Tshangu",
+      "neighborhoods": [
+        "Bandundu",
+        "Bilombe",
+        "Equateur",
+        "Goma",
+        "Inga",
+        "Kasai",
+        "Kasai-Oriental",
+        "Katanga",
+        "Kivu",
+        "Makasi",
+        "Mongala",
+        "Tshuapa",
+        "Ubangi"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Ngaba",
+      "coordinates": {
+        "lat": -4.3761,
+        "lng": 15.3237
+      },
+      "district": "Mont-Amba",
+      "neighborhoods": [
+        "Kianza",
+        "Shaba",
+        "Zongo",
+        "Bukanga",
+        "Masi-manimba",
+        "Feshi",
+        "Lobo",
+        "Mbandaka",
+        "Mawanga",
+        "Zaba",
+        "Kimbala",
+        "Kipasi",
+        "Kahemba",
+        "Panzi",
+        "Kanioka"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Ngaliema",
+      "coordinates": {
+        "lat": -4.3714,
+        "lng": 15.2534
+      },
+      "district": "Lukunga",
+      "neighborhoods": [
+        "Mont-Fleury",
+        "Binza Ozone",
+        "Binza Météo",
+        "Binza Delvaux",
+        "Binza Pigeon",
+        "Binza Ma Campagne",
+        "Binza U.P.N"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Ngiri-Ngiri",
+      "coordinates": {
+        "lat": -4.3563,
+        "lng": 15.2994
+      },
+      "district": "Funa",
+      "neighborhoods": [
+        "24 Novembre",
+        "Assossa",
+        "Carthoums",
+        "Diangenda",
+        "Diomi",
+        "Elengesa",
+        "Petit-Petit",
+        "Saio"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Nsele",
+      "coordinates": {
+        "lat": -4.3033,
+        "lng": 15.3105
+      },
+      "district": "Tshangu",
+      "neighborhoods": [
+        "Badara",
+        "D.I.C",
+        "Dingi Dingi",
+        "Domaine",
+        "Mikala I",
+        "Mikala II",
+        "Kinkole-Pêcheurs",
+        "Bahumbu I",
+        "Bahumbu II",
+        "Sicotra/Lokali",
+        "Mikondo (Brasserie)",
+        "Mikonga (Cité de Mikonga; Cité de Mpasa)",
+        "Maindombe (Village)",
+        "Bu (Village)",
+        "Mpassa Maba",
+        "Kinzono",
+        "Mangenge",
+        "Moba Nse",
+        "Menkao (Village)",
+        "Monaco",
+        "Ngina (Village)",
+        "Kingakati (Village)",
+        "Talangai"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Selembao",
+      "coordinates": {
+        "lat": -4.3983,
+        "lng": 15.2765
+      },
+      "district": "Funa",
+      "neighborhoods": [
+        "Badiadingi",
+        "Cite-Verte",
+        "Herady",
+        "Inga",
+        "Kalunga",
+        "Konde",
+        "Libération",
+        "Lubudi",
+        "Madiata",
+        "Mbala",
+        "Molende",
+        "Pululu Mbambu",
+        "Mwna Ntunu",
+        "Ndobe",
+        "Ngafani",
+        "Nkombe",
+        "Nkingu",
+        "Nkulu"
+      ]
+    }
+  ]
+  
